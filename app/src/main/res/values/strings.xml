@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationHandler</string>
+    <string name="location">location</string>
+</resources>
